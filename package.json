@@ -1,0 +1,19 @@
+{
+  "name": "mat-javascript-course2",
+  "version": "1.0.0",
+  "description": "\"Safebear Test Automation Framework\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LadyPersephone/mat-javascript-course2.git"
+  },
+  "author": "Brianna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LadyPersephone/mat-javascript-course2/issues"
+  },
+  "homepage": "https://github.com/LadyPersephone/mat-javascript-course2#readme"
+}
