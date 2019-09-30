@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/LadyPersephone/mat-javascript-course2/issues"
   },
-  "homepage": "https://github.com/LadyPersephone/mat-javascript-course2#readme"
+  "homepage": "https://github.com/LadyPersephone/mat-javascript-course2#readme",
+  "devDependencies": {
+    "@microsoft/tsdoc": "^0.12.14",
+    "ts-node": "^8.4.1",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  }
 }
