@@ -58,4 +58,8 @@ typings/
 .env
 
 # next.js build output
-.next
+.next/
+node_modules/
+out/
+e2ejs/
+.tmp/
