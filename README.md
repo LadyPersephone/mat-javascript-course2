@@ -2,5 +2,6 @@
 
 Normal text
 
-## Header 2
+# Steps to commit and push the project code:
 
+1. 
