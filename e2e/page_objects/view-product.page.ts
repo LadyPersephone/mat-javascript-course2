@@ -2,6 +2,8 @@ import { $, by, element } from "protractor";
 
 export class ViewProductPage {
 
+    public deleteButton = $(".mat-flat-button.mat-warn");
+
     /**
      * Used to create the locator for the Product name (it's parameterised as we don't know what product we've created)
      * 
